@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"random_string","Source":"./modules/tf-functions","Dir":"modules/tf-functions"},{"Key":"hello-world-web-bootstrap-storage-bucket","Source":"./modules/cloud-storage","Dir":"modules/cloud-storage"},{"Key":"","Source":"","Dir":"."}]}

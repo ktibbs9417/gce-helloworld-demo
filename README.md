@@ -1,1 +1,1 @@
-# gce-helloworld-demo
+# Create simple Hello World site 
